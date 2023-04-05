@@ -1,0 +1,17 @@
+{
+    "name": {
+        "0": "Google",
+        "1": "Baidu",
+        "2": "Wiki"
+    },
+    "site": {
+        "0": "www.google.com",
+        "1": "www.baidu.com",
+        "2": "www.wikipedia.org"
+    },
+    "age": {
+        "0": 90,
+        "1": 80,
+        "2": 98
+    }
+}
